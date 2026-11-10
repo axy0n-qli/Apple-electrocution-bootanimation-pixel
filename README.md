@@ -1,4 +1,4 @@
-# 📽️ Apple electrocution-bootanimation
+# 📽️ Apple electrocution-bootanimation for google pixel
 Apple electrocution bootanimation for google pixel. Only for pixel!!!!
 
 <p align="center">
