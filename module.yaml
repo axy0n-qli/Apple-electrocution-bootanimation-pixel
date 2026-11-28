@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/KernelSU-Modules/tools/main/schemas/module.schema.json
 schemaVersion: 1
-id: apple-electrocution-bootanimation-pixel
+id: Apple-electrocution-bootanimation-pixel
 name: Apple Electrocution bootanimation for Google Pixel
 summary: Apple Electrocution bootanimation for Google Pixel.
 description: README.md
